@@ -1,1 +1,2 @@
-# DataLiteracy_project
+# Data Literacy project 
+###by Tobias Ziefle and Johannes Gaus
